@@ -4,7 +4,8 @@ bio:                'Coder and Decoder of Web, Game, and Social Systems'
 description:        "Welcome to my official portfolio site"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+# logo:               'assets/img/logo.png'
+logo:               'assets/img/meface_no-border.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -32,9 +33,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        "UA-81619796-1"
   #verify:
   #ad-client:
   #ad-slot:
