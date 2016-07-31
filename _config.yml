@@ -9,7 +9,8 @@ logo:               'assets/img/meface_no-border.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://transplanar.github.io
+# url:                https://transplanar.github.io
+url:                https://transplanar.github.io/portfolio/
 # url:                http://127.0.0.1:4000/
 # port: 3000
 
