@@ -4,8 +4,8 @@ title: Chatterbox
 excerpt: "A realtime chat application"
 date:   2016-07-24
 project: true
-heroku-link: https://bloc-jams-foundation-app.herokuapp.com/
-github-link: https://github.com/transplanar/bloc-jams-angular
+heroku-link: https://chatterbox-app-demo.herokuapp.com/
+github-link: https://github.com/transplanar/Chatterbox
 tag:
 - Bloc
 - Frontend
