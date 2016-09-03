@@ -1,8 +1,6 @@
 ---
 layout: post-list
-title: All Posts
+title: Glen's Blog
 excerpt: "A List of Posts"
 comments: false
 ---
-
-Test
