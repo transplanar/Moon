@@ -23,6 +23,7 @@ comments: true
 *For Web Development, I see the same dynamic in play. Particularly with complex business software, the easier and more efficient one can make software tools, the more the user is able to accomplish. If this can further be done in a way that entertains the user, and allows them to derive pleasure from the experience, then all the better. Analyzing the psychology behind people's interactions with software and coming up with solutions to satisfy those quirks and inferences is a topic of particular interest to me.*
 
 # Side Gigs
+
 ## Web
 *In terms of personal projects, I intend to continue to build upon DSet and Fatebook to turn them into full-featured apps. With some luck I would love to launch Fatebook as a fullscale platform for aspiring writers and game developers to share and play each other's adventures.*
 
