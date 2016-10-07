@@ -15,8 +15,7 @@ comments: false
 **Inspiration:** *Ubuntu's "Unity Search", Fuzzy Search, Google Drive Suite*
 
 # Game
-*I love making and engaging with games with solid, well-designed mechanics. I delight in games that challenge the player to build strategies around comboing various effects and abilities off of each other.
-force the player to find novel combinations of various effects and abilities to build a strategy*
+*I love playing and creating games with solid, well-thought-out mechanics that encourage strategy and reward experimentation. I am most strongly drawn to games that involve handing the player an array of tools for them to build emergent strategies and combos with. Lately I've found myself enamoured with digital CCGs and and deckbuilding games.*
 
 **Interests:** *Systems Design, Balancing, Luck-to-Agency Ratio, Emergent Strategies* <br>
 **Inspiration:** *Dominion, Dawn of War II, Duelyst, Chronicle: Runescape Legends, Solforge, Cosmic Encounter*
