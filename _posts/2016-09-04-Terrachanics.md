@@ -20,7 +20,9 @@ comments: true
 
 *Terrachanics is a mobile puzzle game designed as a recruitment tool for the U.S. Department of Energy (DOE). It is designed to contextualize cutting edge energy technologies alongside mind-bending puzzles to attract STEM field students into careers with the DOE.*
 
-*The game was built by a team of 32 volunteers from around the country. I served as the Lead Designer and Producer (aka Project Manager) for the duration of development, as well as the Programming Lead going into our second year.*
+*The game was built by a team of 32[^1] volunteers from around the country. I served as the Lead Designer and Producer (aka Project Manager) for the duration of development, as well as the Programming Lead going into our second year.*
+
+[^1]: Total participants over lifetime of project. Varied from 16 to 2 at various times during development.
 
 # The Challenge
 *Terrachanics was the largest and most ambitious project I had ever done. What began as an internship opportunity grew into what felt like running my own business. I was given unprecedented creative freedom and trust from the DOE, without any budget or time restrictions to speak of. With such a generous and rare opportunity in front of me, I wanted to use it to build the team and the game I've always wanted.*
