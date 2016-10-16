@@ -75,13 +75,13 @@ comments: true
 *Secondly, I wanted to give young developers and students a chance to prove their skills on the job, rather than be like so many companies and demand proven experience up front. I believed that given the right environment it would allow people to spread their wings and prove their worth. I was forgiving of mistakes and delays, believing that this would maintain higher morale.*
 
 ### In Practice...
-*It is indeed possible to create a team culture as Blizzard has done. Such cultures are discussed in even greater detail in such books as [Collective Intelligence](https://www.youtube.com/watch?v=ImmtTHYU5GQ), by Linda Hill et al. Yet it requires a certain finesse and mastery of inspiring dialog and discovery on the team beyond the scope of my modest leadership background.*
+*It is indeed possible to create a team culture as Blizzard has done. Such cultures are discussed in even greater detail in such books as [Collective Genius](https://www.youtube.com/watch?v=ImmtTHYU5GQ), by Linda Hill et al. Yet it requires a certain finesse and mastery of inspiring dialog and discovery on the team beyond the scope of my modest leadership background.*
 
 *It is every bit as important to design your team as it is to design the product. I wanted to take a rag-tag team, but them into the "perfect" work environment, and witness what they came up with. The team I had, however, was largely composed of novices who lacked the confidence and drive to be as opinionated and passionate as I anticipated.*
 
 *Giving people the benefit of the doubt and prove their skills on the job is a great sentiment, but can be costly in practice. I made the mistake of trying to be hands-off, holding back my opinions and tendency to micromanage everything. In spite of my intentions, this only created a vacuum that left my team without a clear vision of our goals and how they fit into them.*
 
-*While I feel there is much more I have to learn about leadership, in my pursuit of learning more I did stumble across some excellent insights that have changed my views of the world.* Collective Intelligence *not only touches on how to seed vibrant and innovative cultures, but describes an approach where conflict and diversity is embraced and leverage.*
+*While I feel there is much more I have to learn about leadership, in my pursuit of learning more I did stumble across some excellent insights that have changed my views of the world.* Collective Genius *not only touches on how to seed vibrant and innovative cultures, but describes an approach where conflict and diversity is embraced and leverage.*
 
 *The mantra "strong opinions loosely held", sums up this sentiment perfectly. It injects emotion into the conversation to fire people up, while maintaining humility and curiosity to seek better alternatives to ones own ideas. I think this is a notion that could radically improve our workplaces and our world.*
 
