@@ -30,30 +30,36 @@ layout: compress
                       <span>
                         {% if page.homepage-link %}
                         <div class='social-btn'>
-                          <a class = 'fa fa-fw fa-globe' style='font-size: 1.5rem' href = "{{page.homepage-link}}" title = 'View Homepage'></a>
+                          <span class="tooltip-text">Homepage</span>
+                          <a class = 'fa fa-fw fa-globe' style='font-size: 1.5rem' href = "{{page.homepage-link}}"></a>
                         </div>
                         {% endif %}
                         {% if page.heroku-link %}
                         <div class='social-btn'>
-                          <a class = 'fa fa-fw fa-globe' style='font-size: 1.5rem' href = "{{page.heroku-link}}" title = 'Live Version on Heroku'></a>
+                          <span class="tooltip-text">Live Demo</span>
+                          <a class = 'fa fa-fw fa-globe' style='font-size: 1.5rem' href = "{{page.heroku-link}}"></a>
                         </div>
                         {% endif %}
                         <div class='social-btn'>
-                          <a style='font-size: 1.5rem' class="fa fa-fw fa-github" href = "{{page.github-link}}" title = 'Source Code on Github'></a>
+                          <span class="tooltip-text">Github</span>
+                          <a style='font-size: 1.5rem' class="fa fa-fw fa-github" href = "{{page.github-link}}"></a>
                         </div>
                         {% if page.prototype-link %}
                         <div class='social-btn'>
-                          <a style='font-size: 1.5rem' class="fa fa-fw fa-github-alt" href = "{{page.prototype-link}}" title = 'Prototype on Github'></a>
+                          <span class="tooltip-text">Prototype Github</span>
+                          <a style='font-size: 1.5rem' class="fa fa-fw fa-github-alt" href = "{{page.prototype-link}}"></a>
                         </div>
                         {% endif %}
                         {% if page.youtube-link %}
                         <div class='social-btn'>
-                          <a style='font-size: 1.5rem' class="fa fa-fw fa-youtube-play" href = "{{page.youtube-link}}" title = 'Watch Youtube Video'></a>
+                          <span class="tooltip-text">Youtube Demo</span>
+                          <a style='font-size: 1.5rem' class="fa fa-fw fa-youtube-play" href = "{{page.youtube-link}}"></a>
                         </div>
                         {% endif %}
                         {% if page.download-link %}
                         <div class='social-btn'>
-                          <a style='font-size: 1.5rem' class="fa fa-fw fa-download" href = "{{page.download-link}}" title = 'Download Link'></a>
+                          <span class="tooltip-text">Download</span>
+                          <a style='font-size: 1.5rem' class="fa fa-fw fa-download" href = "{{page.download-link}}"</a>
                         </div>
                         {% endif %}
                       </span>
