@@ -1,32 +1,32 @@
 # Site
-title:              Glen Cooney
-bio:                'Coder and Decoder of Web, Game, and Social Systems'
-description:        "Welcome to my official portfolio site"
-reading_time:       true
-words_per_minute:   200
+title: Glen Cooney
+bio: "Coder and Decoder of Web, Game, and Social Systems"
+description: "Welcome to my official portfolio site"
+reading_time: true
+words_per_minute: 200
 # logo:               'assets/img/logo.png'
-logo:               'assets/img/meface_no-border.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-base_url:           /portfolio/
-url:                https://transplanar.github.io/portfolio/
+logo: "assets/img/meface_no-border.png"
+background: "assets/img/placeholder-big.jpg"
+tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+locale: en_US
+base_url: /portfolio/
+url: https://transplanar.github.io/portfolio/
 # url:                http://127.0.0.1:4000/
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
 # Comments
 # disqus_shortname:   taylantatli
@@ -34,19 +34,19 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 google:
-  #plus:            #username
-  analytics:        "UA-81619796-1"
-  #verify:
-  #ad-client:
-  #ad-slot:
+    #plus:            #username
+    analytics: "UA-81619796-1"
+    #verify:
+    #ad-client:
+    #ad-slot:
 #bing-verify:
-email:              glen@glencooney.com
-twitter:            transplanar
+email: glen@glencooney.com
+twitter: transplanar
 # facebook:           glen.cooney
-github:             transplanar
+github: transplanar
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-stackoverflow:      5031910/glen-cooney
-linkedin:          glencooney
+stackoverflow: 5031910/glen-cooney
+linkedin: glencooney
 #xing:              username
 # instagram:          username
 #lastfm:            username
@@ -63,17 +63,31 @@ linkedin:          glencooney
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-resume:             https://docs.google.com/document/d/1BEQcEYc1OTX_bs3ajTM2tDC2tL8AQwxCGEWYrPXAZ2o/edit?usp=sharing
+resume: https://drive.google.com/open?id=10g5xo0YWzcLa-SjFWtq8r5FdDOE1TI9P
 
 # Gems
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+    - jekyll-mentions
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
 
 jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        LICENSE,
+        Rakefile,
+    ]
