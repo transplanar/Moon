@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Road Ahead
-excerpt: "My plans for the upcoming years"
+title: After Vacasa
+excerpt: "Laid off from Vacasa due to the pandemic, I ponder the next step on my journey"
 date: 2020-04-02
 tag:
     - Blog
