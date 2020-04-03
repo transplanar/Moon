@@ -2,26 +2,12 @@
 layout: page
 title: About Glen
 tags: [about, web, game, social]
-date: 2016-07-31
+date: 2020-04-02
 comments: false
 ---
 
-*I am a Fullstack Web Developer specializing in Angular and Rails. I am also an indie Game Designer and Social Science enthusiast.*
+_Beginning in the world of Game Development, I have found a new home in software engineering, particularly test automation. Through the process of being in the trenches with code up close, I have been able to quickly learn unfamiliar technologies and methods and contribute in compelling ways in a short amount of time._
 
-# Web
-*The Web Dev world is a fascinating and diverse culture of opensource collaboration and ever-evolving tools. While less structured than traditional CS, I am intrigued by its intersection of creative and technical challenges to optimize the user experience.*
+_Recent events have gotten me connecting with my core passions - living a life of purpose, introspection, and meaning beyond myself. When I am immersed in code, I become one with my work, forgetting myself and the world around me. But I don't just want an escape anymore - I want my work to ease the burdens of others and make life richer for everyone._
 
-**Interests:** *Usability, data streaming, visualization* <br>
-**Inspiration:** *Ubuntu's "Unity Search", Fuzzy Search, Google Drive Suite*
-
-# Game
-*I love playing and creating games with solid, well-thought-out mechanics that encourage strategy and reward experimentation. I am most strongly drawn to games that involve handing the player an array of tools for them to build emergent strategies and combos with. Lately I've found myself enamoured with digital CCGs and and deckbuilding games.*
-
-**Interests:** *Systems Design, Balancing, Luck-to-Agency Ratio, Emergent Strategies* <br>
-**Inspiration:** *Dominion, Dawn of War II, Duelyst, Chronicle: Runescape Legends, Solforge, Cosmic Encounter*
-
-# Social
-*Ever since I watched "The Century of the Self" by Adam Curtis, I have been fascinated by sociology and psychology, particularly as it relates to influence, knowledge, and conflict management. I have since become fascinated by the unique and compelling challenges our psychological tendencies put on understanding ourselves and one another.*
-
-**Interests:** *Behavioral Economics, Choice Architecture, Emotional Intelligence, Situational Leadership, Mindfulness* <br>
-**Inspiration:** *Adam Curtis, Rory Sutherland, Simon Sinek, Alain de Botton*
+_Following a wonderful stint at Vacasa, I am seeking out new horizons and opportunities to grow my skills further. COVID-19 has put the whole world on edge, and I want to do my part to help out those in need with the skills I have to offer._
